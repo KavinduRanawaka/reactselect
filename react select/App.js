@@ -2,7 +2,7 @@ import CreatableSelect from "react-select/creatable";
 
 const App = () => {
   const options = [
-    { value: "jack", label: "Jack", color: "#FF8B00" },
+    { value: "jackie", label: "Jack", color: "#FF8B00" },
     { value: "john", label: "John", color: "#36B37E" },
     { value: "mike", label: "Mike", color: "#0052CC" },
   ];
